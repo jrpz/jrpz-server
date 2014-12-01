@@ -1,0 +1,19 @@
+{
+  "name": "jrpz-server",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Server for my portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^7.5.2",
+    "instagram": "git://github.com/Swizec/nodestagram.git#master",
+    "install": "^0.1.7",
+    "npm": "^2.1.10",
+    "twitter": "^0.2.13"
+  }
+}
